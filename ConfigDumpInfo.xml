@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="CommonTemplate.ДоработкиПечатныхФорм_ОписаниеДоработок" id="b170061c-18a8-4d9d-a993-e91c1b968f63" configVersion="5bae2593bc1f5db289b12a4ef1b92548d02a7b59"/>
+		<Metadata name="CommonTemplate.ДоработкиПечатныхФорм_ОписаниеДоработок.Template" id="b170061c-18a8-4d9d-a993-e91c1b968f63.0" configVersion="7ed52cbae97ef45963946ff38641076e7071edc5"/>
+		<Metadata name="Configuration.ДоработкиПечатныхФорм" id="e259ccbd-f029-47ac-b13e-4b9347664ffc" configVersion="528b0380706a8c8f7fe176927437b38f306fef01"/>
+		<Metadata name="Constant.ПредставлениеСкидкиВПечатнойФорме" id="1629253e-756d-4dff-9a53-34bc06791158" configVersion="6a3bb836671d9b3abfa7aadcc3b207fca7746f91"/>
+		<Metadata name="DataProcessor.ПечатьАктаОбОказанииУслуг" id="187e1511-3137-4985-abd9-8c6a19a4ff4b" configVersion="551cf7b094402a6ad44e1b42b0f764127166b435"/>
+		<Metadata name="DataProcessor.ПечатьАктаОбОказанииУслуг.ManagerModule" id="187e1511-3137-4985-abd9-8c6a19a4ff4b.2" configVersion="f1b80e71e89ce48acc87dd42018fb9afac7330c7"/>
+		<Metadata name="DataProcessor.ПечатьАктаОбОказанииУслуг.Template.ПФ_MXL_АктОбОказанииУслуг_Подписи" id="fd4ed984-73e9-4a39-83c3-d622eb179736" configVersion="8396a6dd30b99985d56662cebf8c8e5fae5919ae"/>
+		<Metadata name="DataProcessor.ПечатьАктаОбОказанииУслуг.Template.ПФ_MXL_АктОбОказанииУслуг_Подписи.Template" id="fd4ed984-73e9-4a39-83c3-d622eb179736.0" configVersion="2270fcb80f9d04ac44d68b29ab5a53ae0c001955"/>
+		<Metadata name="DataProcessor.ПечатьСчетНаОплату" id="0278a99f-bf7a-4a3d-8719-0dea0b3ba345" configVersion="d06bc9cb1f63b7a9625ef623ac7b42f052609964"/>
+		<Metadata name="DataProcessor.ПечатьСчетНаОплату.ManagerModule" id="0278a99f-bf7a-4a3d-8719-0dea0b3ba345.2" configVersion="283a125d95cce9ee6228982a98ebff7faf265ef1"/>
+		<Metadata name="DataProcessor.ПечатьТОРГ12" id="b6926cb9-47eb-405a-9099-63ce88e344eb" configVersion="5ea159690f3b1de516fd3f47cec041d6849675be"/>
+		<Metadata name="DataProcessor.ПечатьТОРГ12.ManagerModule" id="b6926cb9-47eb-405a-9099-63ce88e344eb.2" configVersion="25d713bc2005395f2c5d7e8505c587d925de1b2b"/>
+		<Metadata name="Enum.ДаНет" id="98994152-e4a2-42e4-8b52-4b7f72b9eb05" configVersion="912a7e07c6eb01f5cd200c0aa315271830d2112c">
+			<Metadata name="Enum.ДаНет.EnumValue.Нет" id="83a0086e-64ee-47c0-865f-7ee01c3923ba"/>
+			<Metadata name="Enum.ДаНет.EnumValue.Да" id="c9255464-90e1-4339-9c5d-18b0ec7fdc8e"/>
+		</Metadata>
+		<Metadata name="Enum.СпособОтображенияСкидок" id="b41bd050-5b0a-49d5-b2f6-2fa5ee8bce6a" configVersion="3c3a47d8a548c501821504d78953de8bab02d1e4"/>
+		<Metadata name="Enum.ТипыНоменклатуры" id="080d147c-cb48-4ecc-9104-ae9c15189655" configVersion="a42c661c03f4f55104b4a966096bc8735babedd9">
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Работа" id="00bfc9a3-aaea-4c32-96d7-af6cd68e8af3"/>
+			<Metadata name="Enum.ТипыНоменклатуры.EnumValue.Услуга" id="7ae83b7c-08f5-4436-bd37-07a6c1d841f3"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="bc1277cb-c3cf-42c0-bbe2-6a34ae710a3f" configVersion="54098fcdf0dde9526ec004fe776ff9a5e7024dc2"/>
+		<Metadata name="Role.ДоработкиПечатныхФорм_ОсновнаяРоль" id="7c7a218a-c469-4313-b2db-4c696605c991" configVersion="31a38b44fdefab3e9a17d2a2f115734bf6441e86"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

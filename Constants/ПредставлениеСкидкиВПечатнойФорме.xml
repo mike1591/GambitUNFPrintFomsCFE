@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+	<Constant uuid="1629253e-756d-4dff-9a53-34bc06791158">
+		<InternalInfo>
+			<xr:GeneratedType name="ConstantManager.ПредставлениеСкидкиВПечатнойФорме" category="Manager">
+				<xr:TypeId>4b1ef68d-bc54-4dc0-abc8-7ecbd277518c</xr:TypeId>
+				<xr:ValueId>1caa6551-7203-4291-8706-80b47ea1e4cc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ConstantValueManager.ПредставлениеСкидкиВПечатнойФорме" category="ValueManager">
+				<xr:TypeId>325ff23c-a3a7-413c-9b0d-a90e1a7cd012</xr:TypeId>
+				<xr:ValueId>ff010249-0959-435a-8567-746c5006d52b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ConstantValueKey.ПредставлениеСкидкиВПечатнойФорме" category="ValueKey">
+				<xr:TypeId>bf6de1e4-de78-49d3-a92d-c5a9bc606bb9</xr:TypeId>
+				<xr:ValueId>e413d8d3-22b2-4d00-b5c0-967ec4d6d088</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ПредставлениеСкидкиВПечатнойФорме</Name>
+			<Comment/>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<ExtendedConfigurationObject>946ed625-2f0a-4eac-9cd7-751de76fa2cd</ExtendedConfigurationObject>
+			<Type>
+				<v8:Type>cfg:EnumRef.СпособОтображенияСкидок</v8:Type>
+			</Type>
+		</Properties>
+	</Constant>
+</MetaDataObject>
