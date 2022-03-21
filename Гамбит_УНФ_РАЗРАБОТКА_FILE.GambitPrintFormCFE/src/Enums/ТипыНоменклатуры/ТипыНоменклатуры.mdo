@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="080d147c-cb48-4ecc-9104-ae9c15189655" extendedConfigurationObject="26f5bd34-55fb-4583-a708-4a1aa18f4701">
+  <producedTypes>
+    <refType typeId="4f76cea5-c6de-4d74-9761-280e1633866f" valueTypeId="f687c8b7-308b-493d-8c47-cd48defca337"/>
+    <listType typeId="81b00814-73ed-40f2-af09-f0b7108f4fe5" valueTypeId="9b70a55a-6095-458e-978c-8b76ff82f298"/>
+    <managerType typeId="3d8d77e2-4a58-444f-9e08-077c5d99c952" valueTypeId="648e017e-d1da-4c77-b1e8-622986999f46"/>
+  </producedTypes>
+  <name>ТипыНоменклатуры</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:EnumExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+  </extension>
+  <enumValues uuid="00bfc9a3-aaea-4c32-96d7-af6cd68e8af3" extendedConfigurationObject="a65eacc7-20b4-4874-a8df-eeb4c78616c5">
+    <name>Работа</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+  <enumValues uuid="7ae83b7c-08f5-4436-bd37-07a6c1d841f3" extendedConfigurationObject="bb571f86-1462-437b-9ebb-1df93b741d6b">
+    <name>Услуга</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:MdObjectExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    </extension>
+  </enumValues>
+</mdclass:Enum>

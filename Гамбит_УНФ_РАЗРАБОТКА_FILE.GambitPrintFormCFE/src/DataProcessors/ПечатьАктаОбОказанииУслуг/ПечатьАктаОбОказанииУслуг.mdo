@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="187e1511-3137-4985-abd9-8c6a19a4ff4b" extendedConfigurationObject="ece147eb-3de1-4c56-910a-c650da42cab7">
+  <producedTypes>
+    <objectType typeId="a4fbf9a9-a9e4-4d6c-b3e3-b0f0bce5cd79" valueTypeId="8561b322-bf77-469b-94b0-9170f7b03e08"/>
+    <managerType typeId="2c5b50a0-46ca-42d2-9847-61d836511c4c" valueTypeId="f16a86c2-f75e-42e0-99cd-037c8c8e3b13"/>
+  </producedTypes>
+  <name>ПечатьАктаОбОказанииУслуг</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:DataProcessorExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <managerModule>Extended</managerModule>
+  </extension>
+  <templates uuid="fd4ed984-73e9-4a39-83c3-d622eb179736">
+    <name>ПФ_MXL_АктОбОказанииУслуг_Подписи</name>
+    <synonym>
+      <key>ru</key>
+      <value>Акт выполненных работ</value>
+    </synonym>
+  </templates>
+</mdclass:DataProcessor>

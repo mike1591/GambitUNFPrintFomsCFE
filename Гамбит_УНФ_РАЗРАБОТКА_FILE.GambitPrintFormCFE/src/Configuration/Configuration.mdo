@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="e259ccbd-f029-47ac-b13e-4b9347664ffc">
+  <name>ДоработкиПечатныхФорм</name>
+  <synonym>
+    <key>ru</key>
+    <value>Доработки печатных форм</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <usePurposes>Checked</usePurposes>
+    <defaultLanguage>Checked</defaultLanguage>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="20ae3ee5-8491-4d68-8f23-54cd47dd0439"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="e133d18b-b4db-4c85-9237-6d23e840d09a"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="ff60ea47-b741-4ab5-9a2b-baade3033375"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="428d1922-950f-47c2-9480-18ebe58538f1"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="8349b86a-55fb-487c-aa28-c1a848c50fc3"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="8ebd9dda-e2a1-4a52-86bf-03c1565c3760"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>ДоработкиПечатныхФорм_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <version>1.0.0.4</version>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
+  <languages uuid="bc1277cb-c3cf-42c0-bbe2-6a34ae710a3f" extendedConfigurationObject="af1b61ff-d1b9-4053-ad85-8259b6626adc">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <roles>Role.ДоработкиПечатныхФорм_ОсновнаяРоль</roles>
+  <commonTemplates>CommonTemplate.ДоработкиПечатныхФорм_ОписаниеДоработок</commonTemplates>
+  <constants>Constant.ПредставлениеСкидкиВПечатнойФорме</constants>
+  <enums>Enum.ТипыНоменклатуры</enums>
+  <enums>Enum.ДаНет</enums>
+  <enums>Enum.СпособОтображенияСкидок</enums>
+  <dataProcessors>DataProcessor.ПечатьСчетНаОплату</dataProcessors>
+  <dataProcessors>DataProcessor.ПечатьАктаОбОказанииУслуг</dataProcessors>
+  <dataProcessors>DataProcessor.ПечатьТОРГ12</dataProcessors>
+</mdclass:Configuration>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="1629253e-756d-4dff-9a53-34bc06791158" extendedConfigurationObject="946ed625-2f0a-4eac-9cd7-751de76fa2cd">
+  <producedTypes>
+    <managerType typeId="4b1ef68d-bc54-4dc0-abc8-7ecbd277518c" valueTypeId="1caa6551-7203-4291-8706-80b47ea1e4cc"/>
+    <valueManagerType typeId="325ff23c-a3a7-413c-9b0d-a90e1a7cd012" valueTypeId="ff010249-0959-435a-8567-746c5006d52b"/>
+    <valueKeyType typeId="bf6de1e4-de78-49d3-a92d-c5a9bc606bb9" valueTypeId="e413d8d3-22b2-4d00-b5c0-967ec4d6d088"/>
+  </producedTypes>
+  <name>ПредставлениеСкидкиВПечатнойФорме</name>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConstantExtension">
+    <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <type>Checked</type>
+    <typeExtension>
+      <types>
+        <state>Checked</state>
+        <type>EnumRef.СпособОтображенияСкидок</type>
+      </types>
+    </typeExtension>
+  </extension>
+  <type/>
+</mdclass:Constant>
