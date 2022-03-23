@@ -8,6 +8,15 @@
   <objectBelonging>Adopted</objectBelonging>
   <extension xsi:type="mdclassExtension:DataProcessorExtension">
     <extendedConfigurationObject>Checked</extendedConfigurationObject>
+    <objectModule>Extended</objectModule>
     <managerModule>Extended</managerModule>
   </extension>
+  <templates uuid="bf565a8b-76be-450e-826e-e0ae7ea28bb7" extendedConfigurationObject="82ba9cfd-4407-4094-805e-d3460e6870ec">
+    <name>ПФ_MXL_ТОРГ12</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:BasicTemplateExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <template>Extended</template>
+    </extension>
+  </templates>
 </mdclass:DataProcessor>
